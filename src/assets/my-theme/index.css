@@ -1,0 +1,16 @@
+.col12{
+	width: 50% !important;
+    margin-right: -3px !important;
+    display: inline-block !important;
+}
+.pull-left{
+	float:left;
+}
+.pull-right{
+	float:right;
+}
+.form-title{
+	height:40px;
+	border-bottom:1px solid #ddd;
+	margin-bottom:40px ;
+}
